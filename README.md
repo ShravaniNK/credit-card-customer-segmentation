@@ -113,17 +113,17 @@ The interactive dashboard includes:
 - Downloadable cluster summary CSV
 
 ## Dashboard Screenshots
-![Dashboard Overview](dashboard_screenshots/dashboard1.png)
+![Dashboard Overview](dashboard_screenshots/dashboard1.PNG)
 
-![Cluster Profile Table - Hierarchical](dashboard_screenshots/cp_hieracrchical.png)  
+![Cluster Profile Table - Hierarchical](dashboard_screenshots/cp_hieracrchical.PNG)  
 
-![Cluster Profile Table - GaussainMixture](dashboard_screenshots/cp_gaussianmixture.png) 
+![Cluster Profile Table - GaussainMixture](dashboard_screenshots/cp_gaussianmixture.PNG) 
 
-![Cluster Profile Table - DBSCAN](dashboard_screenshots/cp_dbscan.png)  
+![Cluster Profile Table - DBSCAN](dashboard_screenshots/cp_dbscan.PNG)  
 
-![PCA](dashboard_screenshots/dashboard2.png)  
+![PCA](dashboard_screenshots/dashboard2.PNG)  
 
-![Correlation Heatmap](dashboard_screenshots/correlation_heatmap.png)
+![Correlation Heatmap](dashboard_screenshots/correlation_heatmap.PNG)
 
 ![Spending Distribution](dashboard_screenshots/dashboard3.png)  
 
