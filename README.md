@@ -115,7 +115,7 @@ The interactive dashboard includes:
 ## Dashboard Screenshots
 ![Dashboard Overview](dashboard_screenshots/dashboard1.PNG)
 
-![Cluster Profile Table - Hierarchical](dashboard_screenshots/cp_hieracrchical.PNG)  
+![Cluster Profile Table - Hierarchical](dashboard_screenshots/cp_hierarchical.PNG)  
 
 ![Cluster Profile Table - GaussainMixture](dashboard_screenshots/cp_gaussianmixture.PNG) 
 
