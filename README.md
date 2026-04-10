@@ -42,7 +42,7 @@ The goals of this project were to:
 - NumPy
 - Scikit-learn
 - PCA
-- Matplotlib / Seaborn (if used later)
+- Matplotlib / Seaborn 
 - React dashboard artifact
 - Recharts
 - GitHub
